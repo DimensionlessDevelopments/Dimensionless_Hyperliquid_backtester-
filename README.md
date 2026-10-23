@@ -1,3 +1,4 @@
+# Dimensionless_Developments
 # Hyperliquid RSI Trading Bot — Backtesting Framework
 
 A Python-based quantitative research project for evaluating an RSI-driven trading strategy on historical cryptocurrency market data, with configurable execution costs, portfolio accounting, risk metrics, and strategy sensitivity analysis.
