@@ -1,0 +1,9 @@
+# Core numerical and data analysis
+numpy>=1.26,<3.0
+pandas>=2.2,<3.0
+
+# Plotting and visualisation
+matplotlib>=3.8,<4.0
+
+# Exchange market data via CCXT
+ccxt>=4.0,<5.0
